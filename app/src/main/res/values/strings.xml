@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">android-mqtt-service</string>
+
+    <string name="activity_home_title">Home</string>
+    <string name="activity_title">Activity Title</string>
+
+    <string name="http_send_msg">Votre photo est en cours d\'envoi...</string>
+    <string name="http_send_msg_confirm">Votre photo a été envoyée.</string>
+    <string name="http_send_msg_error">L\'envoi de votre photo a échoué.</string>
+
+    <string name="menu_service_mqtt_on">Activer</string>
+    <string name="menu_service_mqtt_off">Désactiver</string>
+
+    <string name="mqtt_mail_subject">Souvenir de ton passage sur notre stand au DevFest</string>
+    <string name="mqtt_mail_body">Passage de #### au stand >Accenture</string>
+    <string name="mqtt_mail_filename">selfie_nao_accenture_devfest16</string>
+
+</resources>
